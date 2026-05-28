@@ -1,4 +1,4 @@
-# 🗼 Four-Peg Tower of Hanoi — Divide & Conquer + Dynamic Programming
+# Four-Peg Tower of Hanoi — Divide & Conquer + Dynamic Programming
 
 > **Course:** CSE245 – Advanced Algorithms and Complexity  
 > **Task:** 3 of 10 &nbsp;|&nbsp; **Team:** 20 &nbsp;|&nbsp; **Author:** Youssef Amr Abdelrahman (ID: 23P0257)  
